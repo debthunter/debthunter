@@ -28,11 +28,6 @@ towards me, or atleast add a tone indicator.
 </p>
 
 <p align="center">
-I dislike crowded areas depending on the situation,<br>
-I apologize if I ask to move frequently.
-</p>
-
-<p align="center">
 I may move around alot, especially if I am with a friend I'm comfortable with.<br>
 I apologize since I dislike cuddles that I think would last long.
 </p>
@@ -40,6 +35,10 @@ I apologize since I dislike cuddles that I think would last long.
 <p align="center">
 I wouldn't consider myself as the most sociable and may be quiet,<br>
 but I am okay with making friends. I am very friendly!
+</p>
+
+<p align="center">
+I have no need to list the rest, I block freely.
 </p>
 
 <br>
@@ -61,9 +60,4 @@ depending on my mood, or for fun.
 <p align="center">
 Please ask if you want to take inspiration off any of my skins<br>
 so I am aware that you are not trying to copy off me.
-</p>
-
-<p align="center">
-I can only be seen in Docks, ROBLOX area(s),<br>
-or in Party Island (Mafia), (Kingdom), (Lab)
 </p>
