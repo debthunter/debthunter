@@ -23,11 +23,6 @@ is only limited to my partner as I am not a fan.
 </p>
 
 <p align="center">
-I prefer that people do not make any explicit NSFW jokes<br>
-towards me, or atleast add a tone indicator.
-</p>
-
-<p align="center">
 I may move around alot, especially if I am with a friend I'm comfortable with.<br>
 I apologize since I dislike cuddles that I think would last long.
 </p>
