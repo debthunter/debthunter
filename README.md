@@ -42,6 +42,8 @@ I have no need to list the rest, I block freely.
   OTHER INFO
 </h2>
 
+<br>
+
 <p align="center">
 I am not a system, I just appear to have many fiction kins<br>
 and coping-links. I am sorry if it appears that way.
