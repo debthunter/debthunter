@@ -1,5 +1,5 @@
 <p align="center">
-it's fine if no one loves me, right?
+together we'll change the history!
 </p>
 <p align="center">
 <img src="https://meawsource.carrd.co/assets/images/image16.png?v=c72e169a"/>
